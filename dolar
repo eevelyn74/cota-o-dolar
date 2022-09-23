@@ -1,0 +1,25 @@
+algoritmo cotação do dolar
+
+declaração
+	dolar:inteiro;
+	cotação:inteiro;
+	resultado:inteiro;
+ 
+inicio
+	ESCREVA("digite o valor do dolar");
+	LEIA(dolar);
+	ESCREVA("quantos dolares deseja converter");
+	LEIA(valor digitado);
+	resultado<-dolar*cotação;
+ 
+SE (resultado>10)ENTAO
+	ESCREVA ("digite outro valor para somar");
+	LEIA("valor digitado");
+ SENAO
+    SE("resultado = ou < que 10");
+		ESCREVA("resultado igual ou maior");
+	
+	FIM-SE
+FIM-cotação do dolar
+ 
+ 
