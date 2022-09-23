@@ -1,0 +1,1 @@
+# cota-o-dolar
